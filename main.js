@@ -1,4 +1,4 @@
-let countDownDate = new Date("Jul 25, 2050 16:37:52").getTime();
+let countDownDate = new Date("Jul 25, 2030 16:37:52").getTime();
 
 function timerFunction() {
   let now = new Date().getTime();
